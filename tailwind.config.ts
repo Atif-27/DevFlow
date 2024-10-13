@@ -73,7 +73,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [tailwindcssAnimate, typography],
-
+  plugins: [],
+  // plugins: [tailwindcssAnimate, typography],
 };
 export default config;
